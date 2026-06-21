@@ -13,5 +13,4 @@
 
 | 문제 | 난이도 | 풀이 |
 |------|--------|------|
-| 자릿수 더하기 | Lv.1 | [SumOfDigits.java](Solutions/SumOfDigits.java) |
-
+| 자릿수 더하기 | Lv.1 | [SumOfDigits.java](../Solutions/SumOfDigits.java) |
