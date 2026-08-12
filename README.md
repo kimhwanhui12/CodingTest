@@ -7,7 +7,7 @@
 
 - 문제는 **각자 따로** 풉니다. 
 - `main`에 직접 push하지 않고, **PR(Pull Request)로 병합**합니다.
-  1. 본인 이름으로 브랜치 생성 (예: `hwanhui`, 또는 `hwanhui/baekjoon-1000`)
+  1. 본인 이름으로 브랜치 생성 (예: `hwanhui`, 또는 `hwanhui/programmers-lv1`)
   2. 아래 폴더 구조에 맞게 자신의 폴더에서 작업 후 커밋
   3. `main`으로 PR 생성 → 관리자가 확인 후 머지
 - PR은 문제 하나당 하나씩 올려도 되고, 하루치를 모아서 올려도 됩니다.
@@ -15,48 +15,25 @@
 
 ## 팀원
 
-평강, 환희, 혜원, 화영
+평강, 환희, 화영
 
 ## 문제 사이트
 
-문제는 **[프로그래머스](https://school.programmers.co.kr/learn/challenges)**의 "코딩테스트 연습"에서 풉니다. 
+문제는 **[프로그래머스](https://school.programmers.co.kr/learn/challenges)**의 "코딩테스트 연습"에서 풉니다.
 
 - 접속: https://school.programmers.co.kr/learn/challenges
-- 회원가입 후 좌측 메뉴에서 난이도(Lv.1 ~ Lv.5)별로 문제를 골라 풀면 됩니다.
-- 처음이라면 Lv.1부터 순서대로 풀어보는 걸 추천합니다.
 
 ## 폴더 구조
 
 ```
 src/
   ├─ 평강/
-  │   ├─ level1/문제명/Solution.java
-  │   ├─ level2/
-  │   ├─ level3/
-  │   ├─ level4/
-  │   └─ level5/
   ├─ 환희/
-  │   ├─ level1/
-  │   ├─ level2/
-  │   ├─ level3/
-  │   ├─ level4/
-  │   └─ level5/
-  ├─ 혜원/
-  │   ├─ level1/
-  │   ├─ level2/
-  │   ├─ level3/
-  │   ├─ level4/
-  │   └─ level5/
   └─ 화영/
-      ├─ level1/
-      ├─ level2/
-      ├─ level3/
-      ├─ level4/
-      └─ level5/
 ```
 
 - 최상위에 **본인 이름 폴더**를 만들고, 그 안에서만 작업합니다.
-- 그 아래는 `난이도(level1 ~ level5)/문제명` 순서로 정리합니다.
+- 그 안에 문제별 폴더를 만들어 풀이를 정리합니다.
 - 남의 폴더는 건드리지 않습니다.
 
 ## 커밋 규칙 (제안)
@@ -76,6 +53,5 @@ src/
 |------|------|
 | 평강 | 0원 |
 | 환희 | 0원 |
-| 혜원 | 0원 |
 | 화영 | 0원 |
 
