@@ -54,9 +54,8 @@ PR 제목에는 **이름 + 프로그래머스 + 오늘 푼 문제 수**를 작�
     </td>
     <td align="center">
       <a href="https://github.com/kimhwanhui12">
-        <img src="https://avatars.githubusercontent.com/
-kimhwanhui12" width="140px;" alt="
-kimhwanhui12"/>
+        <img src="https://avatars.githubusercontent.com/kimhwanhui12" width="140px;" 
+          alt="kimhwanhui12"/>
       </a>
     </td>
   </tr>
@@ -83,14 +82,6 @@ kimhwanhui12"/>
     </td>
   </tr>
 </table>
-
-#### 문제 사이트
-
-문제는 **[프로그래머스](https://school.programmers.co.kr/learn/challenges)**의 `코딩테스트 연습`에서 풉니다.
-
-- 접속: https://school.programmers.co.kr/learn/challenges
-- 회원가입 후 난이도(Lv.1 ~ Lv.5)에 맞춰 문제를 골라 풉니다.
-- 처음이라면 Lv.1부터 순서대로 풀어보는 것을 추천합니다.
 
 #### 벌금 규칙 🚨
 
